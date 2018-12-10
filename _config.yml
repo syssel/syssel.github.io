@@ -11,3 +11,9 @@ description:  PhD Student in Natural Language Processing (NLP) and Digital Human
 
 title: Sidsel Boldsen
 logo: assets/misc/IMAG0690.png
+
+plugins:
+  - jekyll-seo-tag
+
+webmaster_verifications:
+  google: EDrbgC77DB-cVIzl1_J06O6qHCbSbNjHqaQ6_poUAyY
